@@ -8265,5 +8265,5 @@
     }
   ],
   "last_scrape_error": "Detected an Incapsula challenge/block page instead of coupon content. The opportunistic Actions scrape got flagged this run \u2014 use the bookmarklet (tools/bookmarklet/) to refresh coupons.json instead.",
-  "last_scrape_attempted_at": "2026-10-25T13:08:08.846876+00:00"
+  "last_scrape_attempted_at": "2026-11-01T14:55:55.247786+00:00"
 }
